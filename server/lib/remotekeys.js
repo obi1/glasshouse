@@ -181,6 +181,7 @@ var KEYS = [
   // drives voice control itself.
   { key: 'alexa', symbol: 'WebOS.Key_webOS_ALEXA', title: 'Alexa' },
   { key: 'googleassistant', symbol: 'WebOS.Key_webOS_GoogleVoice', title: 'Google Assistant' },
+  { key: 'voice', symbol: 'WebOS.Key_webOS_Voice', title: 'Voice' },
   { key: 'apps', symbol: 'WebOS.Key_webOS_Apps', title: 'Apps' },
   // Only webOS 11's native filters let these be changed (NATIVE_ACTIONS,
   // NATIVE_SETTINGS); the JavaScript filter leaves them out, so its file is
